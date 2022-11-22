@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "default"
+minimal_mistakes_skin    : "air" # "sunrise", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "default"
 
 # Site Settings
 locale                   : "SouthKorea"
 title                    : "devleoper jooeunkim"
 title_separator          : "-"
 subtitle                 : "never give up"
-name                     : "JooEun Kim"
+name                     : "Joo Eun Kim"
 description              : "개발 블로그 초보. 개블초 입니다"
 url                      : "https://joooeunkim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "JooEun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a **duck**."
   location         : "Daejeon - SouthKorea"
   email            :
   links:

@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "sunrise", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "default"
+minimal_mistakes_skin    : "default" # "air", "sunrise", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum"
 
 # Site Settings
-locale                   : "SouthKorea"
-title                    : "devleoper jooeunkim"
+locale                   : "ko-KR"
+title                    : "coding duck"
 title_separator          : "-"
 subtitle                 : "never give up"
-name                     : "Joo Eun Kim"
+name                     : "JooEun Kim"
 description              : "개발 블로그 초보. 개블초 입니다"
 url                      : "https://joooeunkim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "coding duck"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "JooEun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **duck**."
-  location         : "Daejeon - SouthKorea"
+  bio              : "조금씩 알아가는 "
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
